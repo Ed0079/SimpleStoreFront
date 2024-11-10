@@ -1,4 +1,5 @@
-A simplistic point of sale program made in visual studio 2022
+
+#**`simplistic point of sale program`** made in visual studio 2022
 
 It has the basics of a point of sale :
 Cart
